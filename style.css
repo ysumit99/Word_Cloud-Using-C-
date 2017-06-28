@@ -1,0 +1,24 @@
+.para {
+	text-align: center; vertical-align: middle; font-family:
+                    arial; color: white; background-color:black; border:1px solid black;
+}
+.text1 {
+	font-size: 40px;
+	color: red;
+}
+.text2 {
+	font-size: 80px;
+	color: blue;
+}
+.text3 {
+	font-size: 100px;
+	color: yellow;
+}
+.text4 {
+	font-size: 140px;
+	color: blue;
+}
+.text5 {
+	font-size: 160px;
+	color: green
+}
